@@ -1,3 +1,7 @@
 "*.csv" 
 ".terraform/" 
 "*.exe" 
+"**/*.json" 
+"**/*-creds*" 
+"**/*keys*" 
+"**/*credentials*" 
