@@ -8,15 +8,6 @@ This repository contains all learning materials from the **Data Engineering Zoom
 ## 📂 Repository Structure
 This repository is divided into several folders based on the topics covered:
 
-<<<<<<< HEAD
-- **Week 1: Introduction & Setup**
-- **Week 2: Workflow Orchestration**
-- **Week 3: Data Warehouse**
-- **Week 4: Analytics Engineering**
-- **Week 5: Batch Processing**
-- **Week 6: Streaming**
-- **Week 7: Project**
-=======
 - **Module 1: Introduction & Setup**
 - **Module 2: Workflow Orchestration**
 - **Module 3: Data Warehouse**
@@ -24,7 +15,6 @@ This repository is divided into several folders based on the topics covered:
 - **Module 5: Batch Processing**
 - **Module 6: Streaming**
 - **Module 7: Project**
->>>>>>> ab8cde07326b42a7c48fafafb9ed0fdf0fa88d2f
 
 Each week will contain:
 - **Learning notes** 📖
